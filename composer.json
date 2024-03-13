@@ -29,5 +29,9 @@
       "BlockBee\\": "BlockBee/"
     }
   },
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "extra": {
+    "deprecated": "true",
+    "deprecated-reason": "Package is now deprecated in favor of php-blockbee library that contains the same functionality."
+  }
 }
